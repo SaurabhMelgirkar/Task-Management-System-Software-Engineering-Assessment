@@ -61,8 +61,16 @@ A production-ready, full-stack Task Management System built with Node.js/Express
 ## 🎨 UI Design
 
 The design is inspired by modern SaaS applications like **Linear** and **Notion**, focusing on minimalist typography, subtle shadows, and smooth transitions.
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-04-05 070047.png" alt="Screenshot 2026-04-05 070047.png" width="200" height="200">
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-04-05 081924.png" alt="Screenshot 2026-04-05 081924.png" width="200" height="200">
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-04-05 081857.png" alt="Screenshot 2026-04-05 081857.png" width="200" height="200">
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-04-05 081849.png" alt="Screenshot 2026-04-05 081849.png" width="200" height="200">
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2026-04-05 081823.png" alt="Screenshot 2026-04-05 081823.png" width="200" height="200">
+
+<div align="center">
+  <img src="./image/README/Screenshot 2026-04-05 081823.png" alt="Registration Page" width="800">
+  <br>
+  <br>
+  <img src="./image/README/Screenshot 2026-04-05 081849.png" alt="Login Page" width="800">
+  <br>
+  <br>
+  <img src="./image/README/Screenshot 2026-04-05 081857.png" alt="Dashboard View" width="800">
+  <br>
+  <br>
+  <img src="./image/README/Screenshot 2026-04-05 081924.png" alt="Task Management" width="800">
+</div>
